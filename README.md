@@ -35,19 +35,3 @@ An **iterative and incremental** development methodology was adopted for this pr
 4. **Rule Integration (Gameplay):** Player controls, score accumulation, and defeat condition.
 
 5. **Persistence and Audiovisual Polish:** Save files, audio feedback, and object-oriented refactoring.
-
-## 📸 Screenshots
-
-### Welcome Screen
-
-*(Shows the historic Top 5 records loaded from the local file)*
-
-### Gameplay Screen
-
-*(Shows real-time physics and the pipe's boundary frame)*
-
-### Game Over Screen
-
-*(End state upon crossing the upper limit)*
-
-*Developed as an academic Programming project.*
