@@ -16,3 +16,15 @@ Engineered with a strict Separation of Concerns (SoC) pattern, effectively isola
 * 🎵 **Audio Management:** Implementation of ambient background music and reactive sound effects (when merging objects or losing the game) using `SoundPlayer`.
 * 🖥️ **UI and Game States:** Interactive welcome menu, real-time score updates (running at 60 FPS thanks to *DoubleBuffered* rendering), and dynamic Game Over messages.
 * 🛠️ **Testing Tools:** Integrated developer shortcuts to quickly force game states during development (e.g., `Ctrl + G` to force a game over).
+
+## ⚙️ Installation & Usage
+
+### Prerequisites
+- Visual Studio 2022 (or newer).
+- .NET Framework [versión que hayas usado, ej. 4.7.2].
+
+### Running the Game
+1. Clone the repository:
+   `git clone https://github.com/tu-usuario/tu-repo-csharp.git`
+2. Open the `SuperMarioSuika.sln` solution file in Visual Studio.
+3. Press `F5` or click "Start" to compile and play the game.
